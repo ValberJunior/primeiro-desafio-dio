@@ -42,7 +42,7 @@ Podemos criar nossa conta no **Github** :point_right:<a href='https://github.com
 
 Para criarmos um repositório em nossa máquina, precisamos criar uma pasta no diretório desejado, nesse caso podemos criar tanto pelo terminal quanto manualmente através do clique no botão direito do mouse e na seleção da opção "nova pasta".
 
-Após isso, precisamos iniciar o **Git** dentro dessa pasta, então utilizaremos o **git bash** ( O terminal do Git), basta clicar no botão direito do mouse e ir na opção **git bash here**:point_left: , deste modo abrirá a janela de terminal do **git bash**.
+Após isso, precisamos iniciar o **Git** dentro dessa pasta, então utilizaremos o **git bash** (O terminal do Git), basta clicar no botão direito do mouse e ir na opção **git bash here**:point_left: , deste modo abrirá a janela de terminal do **git bash**.
 
 ![print 1](https://user-images.githubusercontent.com/84424883/138153688-bc708e72-b97e-437f-b902-b1d7e9b12d32.png)
 
@@ -61,11 +61,11 @@ _git config --global user.name "seu username"_
 <br>
 **Obs:** O comando "--global" indica que sua máquina estará logando no usuário informado (todos os diretórios presentes na sua máquina serão afetados por esse processo, por isso o termo global), para mais detalhes podemos dar uma olhada na documentação <a href='https://git-scm.com/docs'>aqui:file_folder:</a>.
 
-
+<br>
 
 Depois de logar no usuário, iniciaremos o nosso repositório com o comando :arrow_forward: **git init**  , o seguinte passo é renomear a **branch principal** para **main**, conforme na atualidade se tem por consenso, através do comando **Git branch -m "main"**.
 
-**Obs**: branches são ramificações de um projeto, sendo que a principal é a parte do código validada. Para testar melhorias e updates em projetos, o aconselhável é criar uma nova branch e apenas após homologação do código modificado, fazer o update para a branch principal.
+**Obs** : branches são ramificações de um projeto, sendo que a principal é a parte do código validada. Para testar melhorias e updates em projetos, o aconselhável é criar uma nova branch e apenas após homologação do código modificado, fazer o update para a branch principal.
 
 Conseguimos criar uma branch nova com o seguinte comando : 
 
@@ -115,7 +115,7 @@ Então, após vincularmos nosso repositório, precisamos subir os arquivos para 
 
 Utilizamos os seguintes passos no nosso terminal:
 
-- **git add ***(para adicionar todos os arquivos);
+- **git add***(para adicionar todos os arquivos);
 
 - **git status** (para verificar os arquivos selecionados);
 
