@@ -1,16 +1,13 @@
-# GIT e GitHub
+
+# Primeiro Projeto Digital Innovation One<br>
+<img src='https://hermes.digitalinnovation.one/site/images/cover_dio.jpg' width="500px">
+
+
+<br><br>
 
  
 
-* Vários programadores atuam em um mesmo código (alteração/melhoria), e esse código final deve se unir a um código apenas.
-
-* Os versionadores de código servem para isso.
-
-
-
- 
-
-## **GIT**  
+# **GIT**      <img src='https://cdn.iconscout.com/icon/free/png-64/git-225996.png' width="50px">
 
 
 
@@ -22,10 +19,10 @@
 Podemos baixar o **Git** :point_right: <a href='https://git-scm.com/downloads'>Aqui</a>.
 
 
+<br><br>
 
 
-
-## **GIT**HUB  
+# **GIT**HUB   <img src='https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png' width="50px">
 
  
 
@@ -35,11 +32,11 @@ Podemos criar nossa conta no **Github** :point_right:<a href='https://github.com
 
 
 
+<br><br><br>
 
 
 
-
-### Criando um repositório Local :computer:
+## Criando um repositório Local :computer:
 
 
 
