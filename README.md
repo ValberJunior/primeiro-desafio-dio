@@ -44,7 +44,8 @@ Para criarmos um repositório em nossa máquina, precisamos criar uma pasta no d
 
 Após isso, precisamos iniciar o **Git** dentro dessa pasta, então utilizaremos o **git bash** ( O terminal do Git), basta clicar no botão direito do mouse e ir na opção **git bash here**:point_left: , deste modo abrirá a janela de terminal do **git bash**.
 
-![image-20211020140119549](C:\Users\Junior\AppData\Roaming\Typora\typora-user-images\image-20211020140119549.png)
+![print 1](https://user-images.githubusercontent.com/84424883/138153688-bc708e72-b97e-437f-b902-b1d7e9b12d32.png)
+
 
 No primeiro Acesso será necessário logar com o usuário do **Github** para posteriormente compartilhar o código na nuvem e para que seja ágil o processo de edição de outros códigos disponibilizados lá.
 
@@ -57,7 +58,7 @@ _git config --global user.email "seu email cadastrado"_
 _git config --global user.name "seu username"_
 
 
-
+<br>
 **Obs:** O comando "--global" indica que sua máquina estará logando no usuário informado (todos os diretórios presentes na sua máquina serão afetados por esse processo, por isso o termo global), para mais detalhes podemos dar uma olhada na documentação <a href='https://git-scm.com/docs'>aqui:file_folder:</a>.
 
 
@@ -71,18 +72,19 @@ Conseguimos criar uma branch nova com o seguinte comando :
 _git branch **nome-da-branch**_
 
 
+<br>
 
 :point_right: **Resumo até aqui**
 
 * Criar a Pasta :arrow_forward: Abrir o **git bash** dentro da pasta :arrow_forward: Logar com o usuário no terminal :arrow_forward: Iniciar o Git dentro da pasta com o comando **Git Init**.
 
-
+<br>
 
 Nesse estágio, você já pode criar seu projeto na sua pasta, a próxima etapa será enviar o projeto para a nuvem através do **GitHub**.
 
 
-
-### Vinculando um repositório Local com um repositório na nuvem :cloud:
+<br><br>
+## Vinculando um repositório Local com um repositório na nuvem :cloud:
 
 
 
@@ -90,7 +92,8 @@ Nessa etapa iremos utilizar o **github** para subir os nossos projetos, é preci
 
 
 
-![image-20211020143532398](C:\Users\Junior\AppData\Roaming\Typora\typora-user-images\image-20211020143532398.png)
+![image-20211020143532398](https://user-images.githubusercontent.com/84424883/138154428-68a8e346-4ae0-499d-991b-815795e1495e.png)
+
 
 
 
@@ -98,7 +101,7 @@ No próprio **GitHub** encontramos a dica para prosseguir, tanto para criar um r
 
 Para vincular um **repositório local** com o criado no **github** devemos digitar a seguinte linha de comando no nosso **git bash** ou mesmo dentro do **VS Code** , através do terminal.
 
-
+<br>
 
 :arrow_forward:  **git remote add origin endereço_do_github_referente_ao_seu_projeto**
 
@@ -106,7 +109,7 @@ Para vincular um **repositório local** com o criado no **github** devemos digit
 
 **OBS:** Por convenção, utilizamos o termo **origin** para nos referirmos a branch principal.
 
-
+<br>
 
 Então, após vincularmos nosso repositório, precisamos subir os arquivos para ele...
 
@@ -122,7 +125,7 @@ Utilizamos os seguintes passos no nosso terminal:
 
 Para finalizar, devemos confirmar que todas os arquivos serão adicionados através do comando **git push**:
 
-
+<br>
 
 :arrow_forward:  **git push -u origin main  endereço-do-github-referente-ao-seu-projeto**
 
@@ -132,9 +135,9 @@ Para finalizar, devemos confirmar que todas os arquivos serão adicionados atrav
 
 
 
+<br><br><br>
 
-
-### Como editar um projeto que já existe:interrobang:
+## Como editar um projeto que já existe:interrobang:
 
 
 
@@ -173,12 +176,13 @@ Após receber a confirmação de que não houveram erros para sincronizar a vers
 :arrow_forward: **git push origin main**
 
 
-
-![image-20211020153206350](C:\Users\Junior\AppData\Roaming\Typora\typora-user-images\image-20211020153206350.png)
-
+![image-20](https://user-images.githubusercontent.com/84424883/138154699-fc557186-5aab-4537-99de-af2acfd8639d.png)
 
 
-###  Pull Request – Pedido de incorporação do seu código na árvore do código.
+
+<br><br><br>
+
+## Pull Request – Pedido de incorporação do seu código na árvore do código.
 
 
 
@@ -194,9 +198,9 @@ Responsável (**marge**) analisa as **pull request** e adiciona no **branch prin
 
  
 
+<br><br><br>
 
-
-### **Trabalho em equipe** :busts_in_silhouette:
+## **Trabalho em equipe** :busts_in_silhouette:
 
  
 
@@ -213,8 +217,9 @@ Responsável (**marge**) analisa as **pull request** e adiciona no **branch prin
 **OBS:** Devemos abrir o **Github** para criar o **Pull Request**. Esse **Pull Request** irá descrever as mudanças e deixar uma área para discussão, colocando um título e uma descrição mais detalhada possível.
 
  
+ <br><br>
 
-#### **Como gerenciar conflitos de códigos**:interrobang:
+## **Como gerenciar conflitos de códigos**:interrobang:
 
 
 
