@@ -14,7 +14,7 @@
 - Criado por **Linus Torvalds**.
 - Ferramenta **Open Source**.
 
- **GIT** é um sistema de controle de versões distribuído, usado  no desenvolvimento de software, mas tara registrar o histórico de edições de qualquer tipo de arquivo. **(Local , gerenciado principalmente por seu terminal chamado git bash)**
+ **GIT** é um sistema de controle de versões distribuído, usado  no desenvolvimento de software e/ou para registrar o histórico de edições de qualquer tipo de arquivo. **(Local , gerenciado principalmente por seu terminal chamado git bash)**
 
 Podemos baixar o **Git** :point_right: <a href='https://git-scm.com/downloads'>Aqui</a>.
 
