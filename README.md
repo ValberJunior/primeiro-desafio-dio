@@ -26,7 +26,7 @@ Podemos baixar o **Git** :point_right: <a href='https://git-scm.com/downloads'>A
 
  
 
-**GitHub** é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo... **( Servidor na nuvem que armazena códigos)**
+**GitHub** é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo... **(Servidor na nuvem que armazena códigos)**
 
 Podemos criar nossa conta no **Github** :point_right:<a href='https://github.com/'>Aqui</a>
 
